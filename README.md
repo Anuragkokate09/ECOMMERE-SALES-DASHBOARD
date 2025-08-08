@@ -66,7 +66,7 @@ A professionally designed **Ecommerce Sales Dashboard** built in **Power BI** to
 
 **Anurag Kokate**  
 🔗 [LinkedIn](https://www.linkedin.com/in/anuragkokate09)  
-📧 anuragkokate25@gmail.com
+📧 anuragkokate52@gmail.com
 
 
 
