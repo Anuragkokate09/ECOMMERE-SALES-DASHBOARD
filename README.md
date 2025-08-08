@@ -1,85 +1,52 @@
-# 📊 Ecommerce Sales Dashboard | Power BI
+# 📊 Economic Sales Dashboard – Power BI
 
-A professionally designed **Ecommerce Sales Dashboard** built in **Power BI** to provide data-driven insights into sales performance, profitability, and customer trends. This dashboard enables stakeholders to make informed business decisions through interactive and visually compelling analytics.
-
----
-
-## 🔍 Key Features
-
-- **Executive KPIs** – Track Total Sales, Profit, Quantity Sold, and Average Order Value.
-- **Trend Analysis** – Visualize monthly sales and profit performance over time.
-- **Category Performance** – Identify top-performing product categories.
-- **Geographical Insights** – Sales breakdown by state.
-- **Customer Preferences** – Analysis of payment method distribution.
-- **Interactive Slicers** – Filter data by Quarter and State for deeper insights.
-- **Modern UI Design** – Clean dark theme for optimal visual comfort.
-
----
-
-## 🛠 Tools & Technologies
-
-- **Power BI Desktop** – Dashboard design and interactivity
-- **Data Source** – Excel dataset
-- **Data Preparation** – Power Query for cleaning and transformation
-- **Data Modeling** – Relationships, calculated columns, and DAX measures
-
----
-
-## 📷 Dashboard Preview
-
-![Ecommerce Dashboard](./Dashboard_Screenshot.png)
-
----
-
-## 📂 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `Ecommerce_Sales_Dashboard.pbix` | Power BI project file |
-| `Ecommerce_Sales_Dataset.xlsx`   | Dataset used for analysis |
-| `README.md`                      | Project documentation |
-
----
-
-## 🚀 Getting Started
-
-1. Download the `.pbix` file from the repository.
-2. Open the file in **Power BI Desktop**.
-3. (Optional) Replace the dataset with your own to customize.
-4. Explore the interactive visuals and filters.
+## 📌 Overview
+The **Economic Sales Dashboard** provides an interactive and visually rich view of key sales metrics, enabling quick decision-making. It covers sales trends, profit margins, and category performance to help monitor business growth effectively.
 
 ---
 
 ## 📈 Insights Delivered
-
-- **Total Sales Amount**: ₹754  
-- **Total Profit**: ₹58  
-- **Total Quantity Sold**: 39  
-- **Average Order Value**: ₹228  
-- **Top Performing State**: Goa  
-- **Preferred Payment Method**: Cash on Delivery (77%)  
-- **Most Sold Category**: Clothing
+- **Total Sales & Profit** overview.
+- **Category & Region-wise Performance** analysis.
+- **Top & Bottom Products** identification.
+- **Monthly and Yearly Trends** for sales growth tracking.
+- **KPI Cards** for at-a-glance performance.
 
 ---
 
-## 👤 Author
+## 🛠 Tools & Technologies
+- **Power BI Desktop** – For dashboard design and analysis.
+- **Power Query** – Data cleaning and transformation.
+- **DAX (Data Analysis Expressions)** – Advanced measures and KPIs.
+- **Excel/CSV Data Sources** – Data input and refresh.
 
+---
+
+## 📂 Repository Contents
+- `Economic_Sales_Dashboard.pbix` – Main Power BI dashboard file.
+- `Data/` – Raw and processed datasets.
+- `README.md` – Documentation file.
+- `Images/` – Dashboard screenshots.
+
+---
+
+## 🚀 Getting Started
+1. **Download** the `Economic_Sales_Dashboard.pbix` file.
+2. **Open** in Power BI Desktop.
+3. **Connect/Update Data Sources** if prompted.
+4. Use **slicers, filters, and drill-through** to explore the dashboard.
+
+---
+
+## 📌 How to Use?
+- Filter data by **category**, **region**, or **time period** using slicers.
+- Hover over charts to reveal **tooltips** with extra insights.
+- Use **drill-down** features for detailed breakdowns.
+- Export selected data views for reports.
+
+---
+
+## 🔗 Connect with Me
 **Anurag Kokate**  
-🔗 [LinkedIn](https://www.linkedin.com/in/anuragkokate09)  
-📧 anuragkokate52@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📧 Email: [anuragkokate52@gmail.com](mailto:anuragkokate52@gmail.com)  
+💼 LinkedIn: [www.linkedin.com/in/anuragkokate09](https://www.linkedin.com/in/anuragkokate09)
